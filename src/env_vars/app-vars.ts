@@ -1,0 +1,1 @@
+export const APP_USER_NAME: string | undefined = process.env.REACT_APP_USER_NAME;
